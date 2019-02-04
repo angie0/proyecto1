@@ -1,0 +1,28 @@
+img{
+max-width:100%;
+}
+p{
+}
+
+
+*{
+	margin : 0px;
+padding : 0px;
+}
+#contenedor{
+position : relative;
+width : 200px; <!-- por ejempo -->
+margin-left: -200px; <!-- la mitad del width-->
+left : 100%;
+}
+
+.contenido{
+position : relative;
+height : 100px; <!-- por ejempo -->
+width : 30%;
+}
+
+.color{
+	background-color:fuchsia;
+
+}

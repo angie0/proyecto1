@@ -1,0 +1,41 @@
+body{
+margin:0;
+}
+img{
+	max-width: 100%;
+}
+
+header{
+	background-color:#007EE3;
+	padding:30px 0;
+} 
+.menu__1{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.menu__1 .submenu__1{
+	width:80%;
+}
+.menu__1 ul{
+	display:flex;
+	justify-content: space-around;	
+}
+.menu__1 ul li{
+	list-style: none;
+}
+#items{
+	background-color:#007EE3;
+	color:white;
+	padding:50px 0;
+}
+section{
+	padding: 50px 0;
+}
+
+.footer{
+	background-color:#707070;
+	bottom: 0;
+
+}
+
